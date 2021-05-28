@@ -1,0 +1,4 @@
+export const LOGIN_SCREEN = 'LOGIN_SCREEN';
+export const HOME_SCREEN = 'HOME_SCREEN';
+export const PRODUCT_LIST_SCREEN = 'PRODUCT_LIST_SCREEN';
+export const USER_LIST_SCREEN = 'USER_LIST_SCREEN';

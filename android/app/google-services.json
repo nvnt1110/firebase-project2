@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639856445559",
+    "project_id": "material-project2",
+    "storage_bucket": "material-project2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639856445559:android:130a93e68ede59a6a95e72",
+        "android_client_info": {
+          "package_name": "com.project2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639856445559-sbqc2d3uu8uva15c919080ts105a4eu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbMLSGowsaYeRfXzqbn96gJJZLdF6p-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639856445559-sbqc2d3uu8uva15c919080ts105a4eu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
